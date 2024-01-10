@@ -1,2 +1,4 @@
 # CSC256-Intro
 This is a Repo for my CSC256 class intro assignment 
+## Thomas Coates Introduction
+Hello my name is Thomas Coates and I'm a programming student at Wake Tech.  I've learned lots of various coding languages including Python, C++, HTML, CSS, JavaScript, PHP, and Ruby.  I hope to get a good job as a software developer after graduation (or before, fingers crossed)!  The main reason I moved to Raleigh was to get in somewhere at RTP and stop working in the restaurant industry, so I'm excited to make that dream a reality!  When I'm not doing school work, or work work, I like to read, exercise, go hiking or kayaking, watch anime, play video games, and socialize with friends.  I'm an extravert so sometimes sitting alone in my room and writing code can be draining; I'm lucky to have good friends who uplift me when I'm feeling tired!  Something I've gotten into recently is meal prepping my lunch for work; it has saved me soooo much money and it's healthier!  
